@@ -1,0 +1,19 @@
+# ninja log v6
+4	189	1729521853413466891	CMakeFiles/StaticArray.dir/main.cpp.o.ddi	a9dce98f020a85a3
+189	194	1729521853603478181	CMakeFiles/StaticArray.dir/CXX.dd	5ff5d3f735aa8c14
+189	194	1729521853603478181	/home/ramez/Storage/FCI/DataStructure/StaticArray/cmake-build-debug/CMakeFiles/StaticArray.dir/CXXModules.json	5ff5d3f735aa8c14
+189	194	1729521853603478181	CMakeFiles/StaticArray.dir/main.cpp.o.modmap	5ff5d3f735aa8c14
+194	522	1729521853603478181	CMakeFiles/StaticArray.dir/main.cpp.o	7b7c46bff48555ef
+522	581	1729521853926830727	StaticArray	ba12bf4e7e9cc39
+1	44	1729522030199311331	CMakeFiles/StaticArray.dir/main.cpp.o.ddi	a9dce98f020a85a3
+44	47	1729522030242646623	CMakeFiles/StaticArray.dir/CXX.dd	5ff5d3f735aa8c14
+44	47	1729522030242646623	/home/ramez/Storage/FCI/DataStructure/StaticArray/cmake-build-debug/CMakeFiles/StaticArray.dir/CXXModules.json	5ff5d3f735aa8c14
+44	47	1729522030242646623	CMakeFiles/StaticArray.dir/main.cpp.o.modmap	5ff5d3f735aa8c14
+47	264	1729522030245980107	CMakeFiles/StaticArray.dir/main.cpp.o	7b7c46bff48555ef
+264	297	1729522030462656568	StaticArray	ba12bf4e7e9cc39
+1	48	1729522183832206044	CMakeFiles/StaticArray.dir/main.cpp.o.ddi	a9dce98f020a85a3
+48	51	1729522183878874406	CMakeFiles/StaticArray.dir/CXX.dd	5ff5d3f735aa8c14
+48	51	1729522183878874406	/home/ramez/Storage/FCI/DataStructure/StaticArray/cmake-build-debug/CMakeFiles/StaticArray.dir/CXXModules.json	5ff5d3f735aa8c14
+48	51	1729522183878874406	CMakeFiles/StaticArray.dir/main.cpp.o.modmap	5ff5d3f735aa8c14
+51	283	1729522183882207860	CMakeFiles/StaticArray.dir/main.cpp.o	7b7c46bff48555ef
+283	316	1729522184115549662	StaticArray	ba12bf4e7e9cc39
