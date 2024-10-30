@@ -1,0 +1,4 @@
+I used IDE CLion to code the project
+Data files for input and output are in the cmake folder in the projcet folder
+
+Thank you
