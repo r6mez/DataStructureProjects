@@ -1,7 +1,0 @@
-First Name:   Harry 
-Last Name:    Potter 
-Class:        Work
-Favorite:     No
-Numbers:      123132, 123123, 
-Emails:       h@gmail.com, p@gmail.com, 
-Address:      213, jhk, cvb, dfgwer

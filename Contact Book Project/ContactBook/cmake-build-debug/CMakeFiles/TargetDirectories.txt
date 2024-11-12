@@ -1,3 +1,0 @@
-/home/ramez/Storage/FCI/DataStructure/ContactBook/cmake-build-debug/CMakeFiles/ContactBook.dir
-/home/ramez/Storage/FCI/DataStructure/ContactBook/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ramez/Storage/FCI/DataStructure/ContactBook/cmake-build-debug/CMakeFiles/rebuild_cache.dir

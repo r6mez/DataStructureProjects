@@ -1,7 +1,0 @@
-First Name:   Ramez
-Last Name:    Medhat
-Class:        friend
-Favorite:     Yes
-Numbers:      01553631073, 01234567891, 
-Emails:       ramez@gmail.com, ahmed@gmail.com, 
-Address:      12, Death Street, London, England

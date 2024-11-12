@@ -1,4 +1,0 @@
-Ramez|Medhat|Friend|1|01553631073|1|iramezdev@gmail.com|12|asd|faqous|Egypt|1
-Harry |Potter |Work|2|123132,123123|2|h@gmail.com,p@gmail.com|213|jhk|cvb|dfgwer|0
-Gambol|Waterson|Work|1|123123123|1|b@gmail.com|15|asdq|qwesd|asdqwe|0
-Candy|Moon|Friend|2|01234567891,01234567899|1|candy@gmail.com|31|Candy|Oreo|Chocolate|1
