@@ -1,0 +1,3 @@
+D:/FCI/2.1 Tasks/DataStructure/DataStructureProjects/Queue/cmake-build-debug/CMakeFiles/Queue.dir
+D:/FCI/2.1 Tasks/DataStructure/DataStructureProjects/Queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/FCI/2.1 Tasks/DataStructure/DataStructureProjects/Queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir

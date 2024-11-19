@@ -94,12 +94,12 @@ public:
         delete []a;
     };
 
-    DynamicArray(const DynamicArray<t> &a) {
-        a[a.capacity];
-        size = a.size;
-        capacity = a.capacity;
+    DynamicArray(const DynamicArray<t> &b) {
+        a = new int[b.capacity];
+        size = b.size;
+        capacity = b.capacity;
         for (int i = 0; i < size; ++i) {
-            a[i] = a[i];
+            a[i] = b[i];
         }
     }
 

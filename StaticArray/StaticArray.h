@@ -162,6 +162,15 @@ public:
         return -1;  // Return -1 if element is not found
     }
 
+    int linearSearch(t element){
+        for(int i = 0; i < size; i++){
+            if(a[i] == element){
+                return i;
+            }
+        }
+        return -1;
+    }
+
     void displayArray() {
         cout << "[ ";
         for (int i = 0; i < size; i++) {

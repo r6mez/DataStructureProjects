@@ -20,6 +20,10 @@ class SingleLL {
     public:
         SingleLL() : head(nullptr), size(0) {}
 
+        ~SingleLL(){
+            clear();
+        }
+
         void traverse() const {
             Node<t> *current = head;
             while (current != nullptr) {
