@@ -23,6 +23,17 @@ private:
 public:
     DoubleLL() : head(nullptr), tail(nullptr), size(0) {}
 
+    DoubleLL(const DoubleLL<T>& b) {
+        head = tail = nullptr;
+        size = 0;
+
+        Node<T>* current = b.head;
+        while (current != nullptr) {
+            insert_at_end(current->data);
+            current = current->next;
+        }
+    }
+
     ~DoubleLL() {
         clear();
     }
@@ -38,7 +49,7 @@ public:
     void traverse() const {
         Node<T>* current = head;
         while (current != nullptr) {
-            cout << current->data << " ";
+            cout << current->data;
             current = current->next;
         }
         cout << endl;
@@ -47,7 +58,7 @@ public:
     void reverse_traverse() const {
         Node<T>* current = tail;
         while (current != nullptr) {
-            cout << current->data << " ";
+            cout << current->data;
             current = current->prev;
         }
         cout << endl;
